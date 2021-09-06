@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1526534267018917582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 65e9da5f-5235-42c9-a1c3-7ed1257ff2e1
+  m_EditorClassIdentifier: 
+  imageNameT: 5RIDDLE
+  orderT: 5
+  image: {fileID: 2800000, guid: 32a46f4d3335dd34dbdb8c3a094f4825, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623b1d33405f0694d9439f323c3fad6b, type: 3}
+  m_Name: Journal 2
+  m_EditorClassIdentifier: 
+  allJournalNodes:
+  - {fileID: 6942505223544960520}
+  - {fileID: 6815657760609130931}
+  - {fileID: 3273941574410534183}
+  - {fileID: 580732628627797493}
+  - {fileID: -1526534267018917582}
+  folderPath: {fileID: 102900000, guid: 4642ced21202f6049ac8b474ba3750ef, type: 3}
+--- !u!114 &60923462865696884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 1c83aca2-81c3-4439-ace7-ba5eb42217af
+  m_EditorClassIdentifier: 
+  imageNameT: 3ChemPuzzle
+  orderT: 3
+  image: {fileID: 2800000, guid: d34b3226c4301ae48ac581b4be766fef, type: 3}
+--- !u!114 &348080357990045110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: fcd57b72-7858-4332-b700-0fee2ad36abc
+  m_EditorClassIdentifier: 
+  imageNameT: 5RIDDLE
+  orderT: 5
+  image: {fileID: 2800000, guid: 32a46f4d3335dd34dbdb8c3a094f4825, type: 3}
+--- !u!114 &580732628627797493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 436b5676-cde1-40c8-b1e7-0323de95464e
+  m_EditorClassIdentifier: 
+  imageNameT: 4ELECTRIC
+  orderT: 4
+  image: {fileID: 2800000, guid: 4b8408200158cf14f8116333ff87e197, type: 3}
+--- !u!114 &1681764002404704881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 9dd8ceb1-aec8-41e1-921a-30af64944aee
+  m_EditorClassIdentifier: 
+  imageNameT: 2DEMONIC
+  orderT: 2
+  image: {fileID: 2800000, guid: ffbb7fca675a9324c8b759caabe6089f, type: 3}
+--- !u!114 &2209868845883617226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 1d49cc2c-f581-44ef-92aa-2cc508ffa200
+  m_EditorClassIdentifier: 
+  imageNameT: 4ELECTRIC
+  orderT: 4
+  image: {fileID: 2800000, guid: 4b8408200158cf14f8116333ff87e197, type: 3}
+--- !u!114 &3273941574410534183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 8810ec96-2922-4aa0-be0d-7f20cae4d7fb
+  m_EditorClassIdentifier: 
+  imageNameT: 3ChemPuzzle
+  orderT: 3
+  image: {fileID: 2800000, guid: d34b3226c4301ae48ac581b4be766fef, type: 3}
+--- !u!114 &4355313751142908323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: e671b67e-a99d-4bda-a540-865a2bd44b2b
+  m_EditorClassIdentifier: 
+  imageNameT: 1INTRO
+  orderT: 1
+  image: {fileID: 2800000, guid: d6c279f0fc09907478b25e0085851a6b, type: 3}
+--- !u!114 &6815657760609130931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 9b6452dc-cb88-422a-b4d5-9b3d05c45530
+  m_EditorClassIdentifier: 
+  imageNameT: 2DEMONIC
+  orderT: 2
+  image: {fileID: 2800000, guid: ffbb7fca675a9324c8b759caabe6089f, type: 3}
+--- !u!114 &6942505223544960520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 07fc432f-a34b-43f4-a063-71887f2d1901
+  m_EditorClassIdentifier: 
+  imageNameT: 1INTRO
+  orderT: 1
+  image: {fileID: 2800000, guid: d6c279f0fc09907478b25e0085851a6b, type: 3}
